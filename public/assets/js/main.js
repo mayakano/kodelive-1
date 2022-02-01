@@ -2,10 +2,10 @@
 *
 * [Main Scripts]
 *
-* Theme    : Netstorm
+* Theme    : KodeLive
 * Version  : 1.0
-* Author   : Themeland
-* Support  : hridoy1272@gmail.com
+* Author   : Maya Kano
+* Support  : mayakanoweb@gmail.com
 * 
 ----------------------------------------------*/
 
